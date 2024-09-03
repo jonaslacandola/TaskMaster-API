@@ -1,9 +1,9 @@
-import { configDotenv } from "dotenv";
+import { config } from "dotenv";
 import { connect } from "mongoose";
 
-import app from "./app.js";
+config({ path: "./config.env" });
 
-configDotenv({ path: "./config.env" });
+import app from "./app.js";
 
 const database = process.env.DATABASE_URL.replace(
   "<db_password>",
