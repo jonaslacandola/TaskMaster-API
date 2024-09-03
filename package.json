@@ -1,0 +1,20 @@
+{
+  "name": "taskmaster-api",
+  "version": "1.0.0",
+  "description": "TaskMaster is task management application, this is API will serves as an endpoints for handling incoming request from the frontend application",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.3",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Jonas Lacandola",
+  "license": "ISC"
+}

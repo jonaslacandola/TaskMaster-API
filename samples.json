@@ -1,0 +1,317 @@
+[
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Website Redesign",
+    "description": "Redesign the company website for a modern look.",
+    "status": "in progress",
+    "priority": "high",
+    "tasks": [
+      {
+        "title": "Update Homepage",
+        "description": "Revamp the homepage layout.",
+        "comments": ["Need to include new hero image", "Finalize by Friday"],
+        "status": "in progress",
+        "priority": "high"
+      },
+      {
+        "title": "Improve SEO",
+        "description": "Enhance SEO for better search engine ranking.",
+        "comments": [
+          "Research latest SEO techniques",
+          "Use alt tags on images"
+        ],
+        "status": "pending",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-09-30"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Mobile App Development",
+    "description": "Develop a new mobile application for the company.",
+    "status": "not started",
+    "priority": "medium",
+    "tasks": [
+      {
+        "title": "Create Wireframes",
+        "description": "Design the wireframes for the app.",
+        "comments": ["Focus on user-friendly design"],
+        "status": "pending",
+        "priority": "high"
+      },
+      {
+        "title": "Develop Backend API",
+        "description": "Create the backend API for the app.",
+        "comments": ["Use Node.js and Express", "Consider using MongoDB"],
+        "status": "pending",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-12-15"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Marketing Campaign",
+    "description": "Launch a new marketing campaign for product X.",
+    "status": "in progress",
+    "priority": "high",
+    "tasks": [
+      {
+        "title": "Social Media Strategy",
+        "description": "Plan the social media strategy.",
+        "comments": ["Include Instagram and Facebook ads"],
+        "status": "in progress",
+        "priority": "high"
+      },
+      {
+        "title": "Email Newsletter",
+        "description": "Design and send out the email newsletter.",
+        "comments": ["Segment the audience for better targeting"],
+        "status": "completed",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-10-20"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Product Launch",
+    "description": "Plan and execute the launch of the new product line.",
+    "status": "not started",
+    "priority": "high",
+    "tasks": [
+      {
+        "title": "Create Launch Plan",
+        "description": "Draft a detailed launch plan.",
+        "comments": ["Collaborate with the marketing team"],
+        "status": "pending",
+        "priority": "high"
+      },
+      {
+        "title": "Organize Launch Event",
+        "description": "Plan the event for the product launch.",
+        "comments": ["Find a suitable venue", "Invite key stakeholders"],
+        "status": "pending",
+        "priority": "high"
+      }
+    ],
+    "endDate": "2024-11-05"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Employee Training Program",
+    "description": "Develop a training program for new employees.",
+    "status": "completed",
+    "priority": "medium",
+    "tasks": [
+      {
+        "title": "Create Training Materials",
+        "description": "Develop all necessary training materials.",
+        "comments": ["Include video tutorials"],
+        "status": "completed",
+        "priority": "medium"
+      },
+      {
+        "title": "Schedule Training Sessions",
+        "description": "Organize training sessions for all departments.",
+        "comments": ["Coordinate with department heads"],
+        "status": "completed",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-08-15"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Customer Feedback Survey",
+    "description": "Create and distribute a customer feedback survey.",
+    "status": "in progress",
+    "priority": "medium",
+    "tasks": [
+      {
+        "title": "Design Survey Questions",
+        "description": "Draft the questions for the survey.",
+        "comments": ["Focus on customer satisfaction"],
+        "status": "in progress",
+        "priority": "high"
+      },
+      {
+        "title": "Distribute Survey",
+        "description": "Send the survey to the customer base.",
+        "comments": ["Use email and social media"],
+        "status": "pending",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-09-01"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Security Audit",
+    "description": "Perform a security audit of the company’s IT infrastructure.",
+    "status": "in progress",
+    "priority": "high",
+    "tasks": [
+      {
+        "title": "Review Current Security Measures",
+        "description": "Analyze the current security measures in place.",
+        "comments": ["Focus on data encryption and access controls"],
+        "status": "in progress",
+        "priority": "high"
+      },
+      {
+        "title": "Implement Security Upgrades",
+        "description": "Apply necessary security upgrades.",
+        "comments": ["Consider multi-factor authentication"],
+        "status": "pending",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-10-10"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Office Renovation",
+    "description": "Renovate the main office space.",
+    "status": "not started",
+    "priority": "low",
+    "tasks": [
+      {
+        "title": "Hire Contractor",
+        "description": "Find and hire a contractor for the renovation.",
+        "comments": ["Get at least three quotes"],
+        "status": "pending",
+        "priority": "medium"
+      },
+      {
+        "title": "Design New Layout",
+        "description": "Create a new layout for the office space.",
+        "comments": ["Include more collaborative spaces"],
+        "status": "pending",
+        "priority": "low"
+      }
+    ],
+    "endDate": "2024-12-01"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Quarterly Financial Report",
+    "description": "Prepare the financial report for Q3.",
+    "status": "completed",
+    "priority": "high",
+    "tasks": [
+      {
+        "title": "Collect Financial Data",
+        "description": "Gather all necessary financial data.",
+        "comments": ["Ensure accuracy and completeness"],
+        "status": "completed",
+        "priority": "high"
+      },
+      {
+        "title": "Draft Report",
+        "description": "Write the report based on the collected data.",
+        "comments": ["Include visual charts and graphs"],
+        "status": "completed",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-08-20"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "New Hire Onboarding",
+    "description": "Onboard the new employees hired this quarter.",
+    "status": "in progress",
+    "priority": "medium",
+    "tasks": [
+      {
+        "title": "Complete Paperwork",
+        "description": "Ensure all new hire paperwork is completed.",
+        "comments": ["HR to coordinate with new hires"],
+        "status": "completed",
+        "priority": "medium"
+      },
+      {
+        "title": "Set Up Workstations",
+        "description": "Prepare workstations for new hires.",
+        "comments": ["Include necessary software installations"],
+        "status": "in progress",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-09-15"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Holiday Marketing Campaign",
+    "description": "Plan and execute the holiday marketing campaign.",
+    "status": "not started",
+    "priority": "high",
+    "tasks": [
+      {
+        "title": "Design Campaign",
+        "description": "Create the visuals and content for the campaign.",
+        "comments": ["Include festive themes"],
+        "status": "pending",
+        "priority": "high"
+      },
+      {
+        "title": "Launch Campaign",
+        "description": "Run the campaign across all channels.",
+        "comments": ["Monitor engagement and adjust as needed"],
+        "status": "pending",
+        "priority": "high"
+      }
+    ],
+    "endDate": "2024-12-20"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Data Migration",
+    "description": "Migrate company data to the new cloud platform.",
+    "status": "in progress",
+    "priority": "high",
+    "tasks": [
+      {
+        "title": "Backup Data",
+        "description": "Create a backup of all data before migration.",
+        "comments": ["Ensure backup is stored securely"],
+        "status": "completed",
+        "priority": "high"
+      },
+      {
+        "title": "Migrate Data",
+        "description": "Transfer data to the new platform.",
+        "comments": ["Monitor for any issues during migration"],
+        "status": "in progress",
+        "priority": "high"
+      }
+    ],
+    "endDate": "2024-10-15"
+  },
+  {
+    "user": "66cdacaa5cb6a64e9013e858",
+    "title": "Customer Support Enhancement",
+    "description": "Improve the customer support process.",
+    "status": "not started",
+    "priority": "medium",
+    "tasks": [
+      {
+        "title": "Review Current Process",
+        "description": "Analyze the existing support process.",
+        "comments": ["Identify bottlenecks and areas for improvement"],
+        "status": "pending",
+        "priority": "medium"
+      },
+      {
+        "title": "Implement New Tools",
+        "description": "Introduce new tools to improve efficiency.",
+        "comments": ["Consider chatbots and automated responses"],
+        "status": "pending",
+        "priority": "medium"
+      }
+    ],
+    "endDate": "2024-11-30"
+  }
+]
